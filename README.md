@@ -1,2 +1,2 @@
-# RestfulAPI
-简单的RestfulAPI
+# REST API
+简单的REST API
